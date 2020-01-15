@@ -1,8 +1,8 @@
 # DUT Info2 - FilmProvider
 
-### NOM : DOE
-### Prénom : John
-### Groupe de TP : 
+### NOM : BORGI
+### Prénom : Tatiana
+### Groupe de TP : 1
 - [x] 1
 
 ### 0. Création et initialisation du projet "FilmProvider"
